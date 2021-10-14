@@ -1,4 +1,4 @@
-<h1> 5-Generator based automation framework </h1>
+<h1> Automation framework based on a 5-Generator model - Python </h1>
 
 ## 1. A simple python based generator automation framework, that accomplishes:
 
